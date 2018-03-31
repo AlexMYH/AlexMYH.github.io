@@ -1,0 +1,27 @@
+# blog page sections
+- name: 所有
+  href: /blog/
+
+# edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
+
+- name: Java
+  href: /java/
+
+- name: Delphi
+  href: /delphi/
+
+- name: C/C++
+  href: /c/
+
+- name: Python
+  href: /python/
+
+- name: HTML
+  href: /html/
+
+- name: 生活
+  href: /life/
+
+# Don't display donation page: change donation to off at file '_config.yml'
+- name: 打赏
+  href: /donate/
