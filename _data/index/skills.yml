@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: GitHub, HTML5, Machine Learing, Python, Sleeping, Delphi, Java, C
-percentage: 100, 70, 10, 70, 0, 80, 60, 80
+aspects: GitHub, HTML5, Machine Learing, Python, Sleeping, Delphi, Java, C, 小程序
+percentage: 100, 70, 0, 40, 0, 70, 80, 80, 50
