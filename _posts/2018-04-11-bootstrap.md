@@ -4,7 +4,7 @@ title:  "Bootstrap css 规范"
 date:   2018-04-11
 desc: "NOHING"
 keywords: "AlexMYH"
-categories: [Html]
+categories: [HTML]
 tags: [bootstrap]
 icon: icon-html
 ---
