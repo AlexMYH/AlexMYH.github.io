@@ -34,6 +34,7 @@ icon: icon-html
   <!-- ![edit]({{ site.img_path }}/3steps/22.jpg) -->
     <img src="{{ site.img_path }}/3steps/22.jpg" width="75%">
 # 情人节快乐啊  #
+![image](https://github.com/AlexMYH/AlexMYH.github.io/blob/master/static/assets/img/blog/edit.gif)
 
 
 
