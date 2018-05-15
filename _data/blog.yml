@@ -10,19 +10,17 @@
 - name: 前后端
   href: /html/
 
+- name: Python
+  href: /python/
+
+- name: 单片机
+  href: /单片机/
+
 - name: C/C++
   href: /c/
 
 - name: Delphi
   href: /delphi/
-
-- name: Python
-  href: /python/
-
-
-- name: 单片机
-  href: /单片机/
-
 
 - name: 生活
   href: /life/
