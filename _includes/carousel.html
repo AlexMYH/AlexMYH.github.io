@@ -3,7 +3,7 @@
         <li data-target="#inSlider" data-slide-to="0" class="active"></li>
         <li data-target="#inSlider" data-slide-to="1"></li>
     </ol>
-    <div class="carousel-inner" role="listbox" style="height: 100px">
+    <div class="carousel-inner" role="listbox">
 
         <div class="item active">
             <div class="container">
@@ -17,6 +17,7 @@
             <div
               class="header-back"
               style="background-image: url({{ '/static/assets/img/' | prepend: site.baseurl }}{{ site.data.index.banners[0].src }});"
+              style="height: 100px"
               title="{{ site.data.index.banners[0].title }}">
             </div>
         </div>
